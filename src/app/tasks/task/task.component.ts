@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 
-import { Task } from './task.model';
+import { type Task } from './task.model';
 
 // interface Task {
 //   id: string,
